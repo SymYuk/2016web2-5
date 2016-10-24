@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2016/10/24
-avatar: logo.png
+avatar: ../logo.png
 ---
 
 GitHubの日本語化を所望した
